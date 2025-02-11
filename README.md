@@ -14,7 +14,7 @@ Follow these steps to use the Product API in Postman:
 
 1. **Download the API Collection**
 
-   - Download the API collection file from the link provided [HERE](#).
+   - Download the API collection file from the link provided [HERE](https://drive.usercontent.google.com/download?id=1YSWd_nTny_a_rxpTUE1TplH-Myna8thM&export=download&authuser=0&confirm=t&uuid=0d2d16b9-3e05-460a-88db-dc0bf0287993&at=AIrpjvOkTI7lYaReVIvcMM-gCHDf:1739304433251).
 
 2. **Open Postman**
 
